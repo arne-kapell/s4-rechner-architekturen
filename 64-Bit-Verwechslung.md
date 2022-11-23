@@ -1,5 +1,5 @@
 Jede Speicheradresse ist 64 Bit breit ([Bitbreite](Bitbreite.md)). Adressierung eines Datums dauert z.B. doppelt so lang gegenüber 32 Bit. **Vorteil ergibt sich erst, wenn mehr als 4 GB RAM verwendet werden.**
-Aktuelle Prozessoren verwenden zudem maximal 45 echte Adressleitungen, somit limitiert auf 45 Bit. **Maximal adressierbarer Speicher ist damit 256 TB.**
+Aktuelle Prozessoren verwenden zudem typischerweise maximal 48 echte Adressleitungen, somit limitiert auf 48 Bit. **Maximal adressierbarer Speicher ist damit 256 TB.**
 
 \#rechnerarchitekturen #betriebssysteme 
 
